@@ -1,0 +1,15 @@
+
+obj/BandTest.csproj.nuget.cache
+obj/BandTest.csproj.nuget.dgspec.json
+obj/BandTest.csproj.nuget.g.props
+obj/BandTest.csproj.nuget.g.targets
+obj/Debug/netcoreapp3.0/App.g.i.cs
+obj/Debug/netcoreapp3.0/BandTest.AssemblyInfo.cs
+obj/Debug/netcoreapp3.0/BandTest.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp3.0/BandTest.assets.cache
+obj/Debug/netcoreapp3.0/BandTest.csprojAssemblyReference.cache
+obj/Debug/netcoreapp3.0/BandTest.designer.deps.json
+obj/Debug/netcoreapp3.0/BandTest.designer.runtimeconfig.json
+obj/Debug/netcoreapp3.0/BandTest_MarkupCompile.i.cache
+obj/Debug/netcoreapp3.0/MainWindow.g.i.cs
+obj/project.assets.json
