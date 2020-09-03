@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BandTest.Service;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -32,6 +33,8 @@ namespace BandTest
             if (answer5.IsChecked == true) i++;
             if (answer6.IsChecked == true) i++;
             MessageBox.Show($"Ваш балл: {i * 2} (2 балла за правильный ответ)");
+            ScoreService.ScoreFootballTest = i;
+           
         }
     }
 }
