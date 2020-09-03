@@ -24,5 +24,20 @@ namespace BandTest
         {
             InitializeComponent();
         }
+
+        private void Literat_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Csharp_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void footBall_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
     }
 }
