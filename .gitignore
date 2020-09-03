@@ -13,6 +13,13 @@ obj/Debug/netcoreapp3.0/BandTest.designer.runtimeconfig.json
 obj/Debug/netcoreapp3.0/BandTest_MarkupCompile.i.cache
 obj/Debug/netcoreapp3.0/MainWindow.g.i.cs
 obj/project.assets.json
+obj/Debug/netcoreapp3.0/Fossa22984WindowTest.g.i.cs
+obj/Debug/netcoreapp3.0/BandTest_MarkupCompile.i.lref
+.vs/BandTest/v16/Server/sqlite3/storage.ide-wal
+.vs/BandTest/v16/Server/sqlite3/storage.ide-shm
+.vs/BandTest/v16/Server/sqlite3/storage.ide
+.vs/BandTest/v16/Server/sqlite3/db.lock
+.vs/BandTest/v16/.suo
 .vs/BandTest/v16/Server/sqlite3/db.lock
 .vs/BandTest/v16/Server/sqlite3/storage.ide
 .vs/BandTest/v16/Server/sqlite3/storage.ide-shm
