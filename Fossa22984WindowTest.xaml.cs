@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BandTest.Service;
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Windows;
@@ -115,6 +116,7 @@ namespace BandTest
 
             if (res < 64) MessageBox.Show($"Result --> {res}/100. Потрачено, не прошел!");
             else MessageBox.Show($"Result --> {res}/100");
+            ScoreService.ScoreCSharp = res;
         }
     }
 }
